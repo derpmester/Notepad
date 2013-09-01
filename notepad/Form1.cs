@@ -62,7 +62,6 @@ namespace notepad
             StreamWriter SaveFile = new StreamWriter(openFileDialog1.FileName);
             //Write file to text
             SaveFile.WriteLine(textBox1.Text);
-            //Close shit
             SaveFile.Close();
         }
 
@@ -74,7 +73,6 @@ namespace notepad
             StreamWriter Savefile = new StreamWriter(saveFileDialog1.FileName);
             //Write text to file
             Savefile.WriteLine(textBox1.Text);
-            //Close stuff
             Savefile.Close();
         }
 
