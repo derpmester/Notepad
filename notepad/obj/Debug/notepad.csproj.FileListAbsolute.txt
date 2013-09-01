@@ -1,0 +1,9 @@
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\Japsnak\Documents\GitHub\C\notepad\notepad\obj\Debug\notepad.pdb
