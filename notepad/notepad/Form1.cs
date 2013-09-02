@@ -25,7 +25,7 @@ namespace notepad
                 "Confirm",
                 MessageBoxButtons.YesNoCancel
                 );
-            //fisteting
+            
             switch (result)
             {
 
